@@ -6,7 +6,7 @@ Simple app showing videos from Youtube, then if we click video, player of video 
 
 ## Demo
 
-(https://guarded-basin-35022.herokuapp.com/index.html)[https://guarded-basin-35022.herokuapp.com/index.html]
+[https://guarded-basin-35022.herokuapp.com/index.html](https://guarded-basin-35022.herokuapp.com/index.html)
 
 ## Screenshoot
 
